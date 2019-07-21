@@ -13,3 +13,7 @@ Here are some examples screenshots
 ![Afternoon_Example](https://github.com/Spanhaak/Dynamic_Landing_Page/blob/master/img/ss_afternoon.png?raw=true "Example afternoon Landing Page")
 ### Example of the Morning Landing Page
 ![Morning_Example](https://github.com/Spanhaak/Dynamic_Landing_Page/blob/master/img/ss_morning.png?raw=true "Example morning Landing Page")
+
+### The best free stock pictures 
+Used three stock pictures for free from Pexels.
+https://www.pexels.com/
