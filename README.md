@@ -9,5 +9,7 @@ The page allows you as well to display your focus for today. The focus is also s
 Here are some examples screenshots
 ### Example of the Evening Landing Page
 ![Evening_Example](https://github.com/Spanhaak/Dynamic_Landing_Page/blob/master/img/ss_evening.png?raw=true "Example evening Landing Page")
+### Example of the Afternoon Landing Page
+![Afternoon_Example](https://github.com/Spanhaak/Dynamic_Landing_Page/blob/master/img/ss_afternoon.png?raw=true "Example afternoon Landing Page")
 ### Example of the Morning Landing Page
-![Evening_Example](https://github.com/Spanhaak/Dynamic_Landing_Page/blob/master/img/ss_morning.png?raw=true "Example morning Landing Page")
+![Morning_Example](https://github.com/Spanhaak/Dynamic_Landing_Page/blob/master/img/ss_morning.png?raw=true "Example morning Landing Page")
