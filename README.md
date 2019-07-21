@@ -5,3 +5,7 @@ A project of a Dynamic Landing Page using HTML5, CSS and JS.
 This is a page that shows the time centered, it has a greeting based on the name set in local storage. The greeting greets you according to the time of day.
 The page allows you as well to display your focus for today. The focus is also stored in local storage.
 
+## Examples
+Here are some examples screenshots
+### Example of the Evening Landing Page
+![Evening_Example](https://github.com/Spanhaak/Dynamic_Landing_Page/blob/master/img/ss_evening.png?raw=true "Example evening Landing Page")
